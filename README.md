@@ -2,8 +2,8 @@
 
 Code and simulations accompanying:
 
-> Zhu, H., Beierholm, U., & Shams, L. (2025). *Analyzing multisensory
-> integration: do's and don'ts.* [Journal name, under review].
+> Zhu, H., Beierholm, U., & Shams, L. (2026). *Analyzing multisensory
+> integration: do's and don'ts.* .
 
 This repository provides the model-based inference pipeline, simulation
 scripts, and figure-generation code used in the paper. The pipeline
@@ -21,8 +21,8 @@ The code in this repository reproduces:
 - **Figure 1.** Simulations of how unisensory reliability and binding
   tendency (`p_common`) jointly shape crossmodal bias and the
   sound-induced flash illusion under BCI.
-- **Figure 2.** [short description of what Figure 2 shows]
-- **Figure 3.** [short description]
+- **Figure 2.** 
+-
 - The minimal, reproducible BCI model specification described in
   Section 3 of the paper.
 - The model-based inference pipeline (design → unisensory baselines →
@@ -31,6 +31,4 @@ The code in this repository reproduces:
 All simulations are built on top of the BCI Python Toolbox
 (Zhu et al., 2024).
 
----
 
-## Repository structure
