@@ -21,8 +21,9 @@ The code in this repository reproduces:
 - **Figure 1.** Simulations of how unisensory reliability and binding
   tendency (`p_common`) jointly shape crossmodal bias and the
   sound-induced flash illusion under BCI.
-- **Figure 2.** 
--
+- **Figure 2.** Multiple parameters independently shape the temporal binding window in the sound-induced flash illusion.
+
+
 - The minimal, reproducible BCI model specification described in
   Section 3 of the paper.
 - The model-based inference pipeline (design → unisensory baselines →
